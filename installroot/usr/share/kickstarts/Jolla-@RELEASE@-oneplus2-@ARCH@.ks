@@ -3,10 +3,10 @@
 # SuggestedImageType: fs
 # SuggestedArchitecture: armv7hl
 
-timezone --utc UTC
-lang en_US.UTF-8
 keyboard us
 user --name nemo --groups audio,video --password nemo
+lang en_US.UTF-8
+timezone --utc UTC
 
 ### Commands from /tmp/sandbox/usr/share/ssu/kickstart/part/default
 part / --size 500 --ondisk sda --fstype=ext4

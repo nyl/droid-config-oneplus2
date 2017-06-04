@@ -11,7 +11,7 @@
     <rpm:entry name="pattern:jolla-ui-wayland"/>
     <rpm:entry name="pattern:jolla-sailfish-cellular-apps"/>
     <rpm:entry name="pattern:sailfish-porter-tools"/>
-    <rpm:entry name="sailfish-content-graphics-z1.0"/>
+    <rpm:entry name="sailfish-content-graphics-z1.75"/>
     <rpm:entry name="jolla-settings-accounts-extensions-3rd-party-all"/>
     <rpm:entry name="geoclue-provider-mlsdb"/>
     <rpm:entry name="csd"/>
